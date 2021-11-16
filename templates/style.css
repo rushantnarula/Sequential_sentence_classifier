@@ -1,0 +1,33 @@
+body {
+  background-color: #719fb0;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Arvo', serif;
+  font-style: 'Arvo';
+}
+
+.cen {
+  margin: auto;
+  width: 80%;
+  padding: 3px;
+  text-align: center;
+  padding: 5px 0;
+  top: 75%;
+}
+
+.pad {
+  padding-top: 25px;
+  padding-bottom: 3px;
+}
+
+.jumbotron {
+  background-color: #a0c1b8;
+  border-radius: 25px;
+}
+
+.centro {
+  margin-top: 50%;
+  margin-bottom: 50%;
+}
