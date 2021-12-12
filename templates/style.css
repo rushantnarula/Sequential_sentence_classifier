@@ -1,5 +1,5 @@
 body {
-  background-color: #719fb0;
+  background-color: #0a4f68;
   margin: auto;
   display: flex;
   align-items: center;
@@ -23,7 +23,7 @@ body {
 }
 
 .jumbotron {
-  background-color: #a0c1b8;
+  background-color: #4fa3c4;
   border-radius: 25px;
 }
 
